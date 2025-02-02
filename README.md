@@ -1,7 +1,8 @@
 # E-commerce Data Analysis
 The dataset contains various attributes related to orders, customers, and products, providing a comprehensive view of the sales process.
 
-[<img src="https://png.pngtree.com/background/20210711/original/pngtree-e-commerce-skin-care-promotion-banner-picture-image_1117865.jpg" alt="report1" width="1000" height="350">](https://png.pngtree.com/background/20210711/original/pngtree-e-commerce-skin-care-promotion-banner-picture-image_1117865.jpg) &nbsp;
+![image](https://github.com/user-attachments/assets/e7b782fc-9e61-4709-9d9d-3f39120eaa2f)
+
 
 ## Project Overview :
 This project focuses on analyzing e-commerce order data to identify patterns, trends, and insights related to customer purchases, sales performance, and profitability. The dataset contains various attributes related to orders, customers, and products, providing a comprehensive view of the sales process.
