@@ -51,5 +51,5 @@ The primary objectives of this analysis are:
 
 ## Dashboard Review :
 <img src="Report Img/Overview_ecommerce.png" alt="report1" width="1000" height="600">&nbsp;
-<img src="Report Img/Market & Category.png" alt="report1" width="1000" height="600">&nbsp;
+<img src="Report Img/Market & Category1.png" alt="report1" width="1000" height="600">&nbsp;
 <img src="Report Img/Summary.png" alt="report1" width="1000" height="600">&nbsp;
